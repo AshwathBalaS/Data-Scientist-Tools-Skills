@@ -7,3 +7,5 @@
 **3. Data Versioning - Data Version Control (DVC)**
 
 **4. Workflow Management - Author, Schedule, Monitor Workflows; Data Pipelines for Extract, Transform, Load (ETL) (To orchestrate across multiple system) - Apache Airflow**
+
+**5. Workflow Automation - CI/CD Integration - GitHub Actions**
